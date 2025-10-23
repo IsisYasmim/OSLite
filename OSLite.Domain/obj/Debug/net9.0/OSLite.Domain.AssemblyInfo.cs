@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OSLite.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0bcb370b1b68caba624122b8d84df8d634c999b1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a1e20644066587b4e94a95978f744ec972f3a68d")]
 [assembly: System.Reflection.AssemblyProductAttribute("OSLite.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OSLite.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
