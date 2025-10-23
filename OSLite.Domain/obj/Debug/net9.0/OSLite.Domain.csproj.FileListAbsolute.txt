@@ -1,0 +1,12 @@
+C:\Users\Isis\Documents\Faculdade\orientacaobj\OSLite-Isis\OSLite.Domain\bin\Debug\net9.0\OSLite.Domain.deps.json
+C:\Users\Isis\Documents\Faculdade\orientacaobj\OSLite-Isis\OSLite.Domain\bin\Debug\net9.0\OSLite.Domain.dll
+C:\Users\Isis\Documents\Faculdade\orientacaobj\OSLite-Isis\OSLite.Domain\bin\Debug\net9.0\OSLite.Domain.pdb
+C:\Users\Isis\Documents\Faculdade\orientacaobj\OSLite-Isis\OSLite.Domain\obj\Debug\net9.0\OSLite.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Isis\Documents\Faculdade\orientacaobj\OSLite-Isis\OSLite.Domain\obj\Debug\net9.0\OSLite.Domain.AssemblyInfoInputs.cache
+C:\Users\Isis\Documents\Faculdade\orientacaobj\OSLite-Isis\OSLite.Domain\obj\Debug\net9.0\OSLite.Domain.AssemblyInfo.cs
+C:\Users\Isis\Documents\Faculdade\orientacaobj\OSLite-Isis\OSLite.Domain\obj\Debug\net9.0\OSLite.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Isis\Documents\Faculdade\orientacaobj\OSLite-Isis\OSLite.Domain\obj\Debug\net9.0\OSLite.Domain.sourcelink.json
+C:\Users\Isis\Documents\Faculdade\orientacaobj\OSLite-Isis\OSLite.Domain\obj\Debug\net9.0\OSLite.Domain.dll
+C:\Users\Isis\Documents\Faculdade\orientacaobj\OSLite-Isis\OSLite.Domain\obj\Debug\net9.0\refint\OSLite.Domain.dll
+C:\Users\Isis\Documents\Faculdade\orientacaobj\OSLite-Isis\OSLite.Domain\obj\Debug\net9.0\OSLite.Domain.pdb
+C:\Users\Isis\Documents\Faculdade\orientacaobj\OSLite-Isis\OSLite.Domain\obj\Debug\net9.0\ref\OSLite.Domain.dll
